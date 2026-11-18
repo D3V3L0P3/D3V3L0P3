@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi
+# HELLO AND WELCOME TO MY PROFILE
 
 **Electrical & Software Engineering Graduate**
 Bachelor of Engineering (Honours) · Queensland University of Technology
