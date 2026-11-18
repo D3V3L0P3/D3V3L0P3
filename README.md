@@ -1,6 +1,5 @@
 <div align="center">
 
-# Hi, I'm Lucas De Vere
 
 **Electrical & Software Engineering Graduate**
 Bachelor of Engineering (Honours) · Queensland University of Technology
