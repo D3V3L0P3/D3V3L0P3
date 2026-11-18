@@ -27,18 +27,31 @@ into practical solutions.
 - 💧 Supporting engineering teams on water infrastructure and industrial projects
 - ☕ University software projects in Java and JavaFX, including a team-built equipment rental application
 
-### Tech & tools
+### Languages
 
-<!-- Delete any badge that doesn't apply, and add your own from https://shields.io -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-4B8BBE?style=flat-square)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat-square)
+
+### Engineering software
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![Simulink](https://img.shields.io/badge/Simulink-E16737?style=flat-square)
+![Vivado](https://img.shields.io/badge/Vivado-ED1C24?style=flat-square&logo=amd&logoColor=white)
+![Vitis HLS](https://img.shields.io/badge/Vitis_HLS-ED1C24?style=flat-square&logo=amd&logoColor=white)
+![PYNQ](https://img.shields.io/badge/PYNQ-F7931E?style=flat-square)
+![LTspice](https://img.shields.io/badge/LTspice-1F4E79?style=flat-square)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
+![Bluebeam](https://img.shields.io/badge/Bluebeam-0072CE?style=flat-square)
+![SKM](https://img.shields.io/badge/SKM_PowerTools-2E3B4E?style=flat-square)
+![PowerCAD](https://img.shields.io/badge/PowerCAD-005B96?style=flat-square)
+![PowerWorld](https://img.shields.io/badge/PowerWorld-3A7D44?style=flat-square)
+![DIALux](https://img.shields.io/badge/DIALux-F4B400?style=flat-square&logoColor=black)
 
 ### GitHub stats
 
