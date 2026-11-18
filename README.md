@@ -1,22 +1,17 @@
 <div align="center">
 
-# Hi, I'm Lucas De Vere 👋
+# Hi, I'm Lucas De Vere
 
 **Electrical & Software Engineering Graduate**
 Bachelor of Engineering (Honours) · Queensland University of Technology
 
-📍 Brisbane, Australia
-
-<!-- Replace the placeholder links below with your own -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Project_Catalogue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3V3L0P3/engineering-project-catalogue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-vere/)
 
 </div>
 
 ---
 
-### 👨‍🔧 About me
+### About me
 
 I recently graduated from QUT with a **Bachelor of Engineering (Honours)**, double majoring in
 **Electrical Engineering** and **Software Engineering**.
@@ -25,14 +20,14 @@ My interests span power systems, industrial automation, embedded systems and sof
 development. I like understanding how systems work and turning engineering requirements
 into practical solutions.
 
-### ⚡ Engineering background
+### Engineering background
 
 - 📐 Electrical design documentation
 - 📋 Equipment, cable and control system I/O schedules
 - 💧 Supporting engineering teams on water infrastructure and industrial projects
 - ☕ University software projects in Java and JavaFX, including a team-built equipment rental application
 
-### 🛠️ Tech & tools
+### Tech & tools
 
 <!-- Delete any badge that doesn't apply, and add your own from https://shields.io -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -45,7 +40,7 @@ into practical solutions.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
 
-### 📊 GitHub stats
+### GitHub stats
 
 <div align="center">
 
@@ -54,19 +49,19 @@ into practical solutions.
 
 </div>
 
-### 📂 Selected work
+### Selected work
 
 | Project | Description |
 |---|---|
-| [**Engineering Project Catalogue**](https://github.com/D3V3L0P3/engineering-project-catalogue) | A collection of electrical and software engineering project guides |
+| | |
 
-### 🔭 Areas of interest
+### Areas of interest
 
 - ⚡ Power systems and industrial automation
 - 🔌 Embedded systems and hardware–software integration
 - 🧰 Software tools for engineering workflows
 - 🖥️ Homelab infrastructure and self-hosted services
 
-### 🏀 Beyond engineering
+### Beyond engineering
 
 Basketball · Climbing · Hiking · Gaming
