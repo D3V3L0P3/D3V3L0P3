@@ -1,5 +1,6 @@
 <div align="center">
 
+# Hi
 
 **Electrical & Software Engineering Graduate**
 Bachelor of Engineering (Honours) · Queensland University of Technology
@@ -21,10 +22,17 @@ into practical solutions.
 
 ### Engineering background
 
-- 📐 Electrical design documentation
-- 📋 Equipment, cable and control system I/O schedules
-- 💧 Supporting engineering teams on water infrastructure and industrial projects
-- ☕ University software projects in Java and JavaFX, including a team-built equipment rental application
+**Maxwell Industries / Electrotech** · Graduate Electrical Engineer (EI&C)<br>
+Power, control and communications design for industrial and infrastructure projects,
+including network modelling, protection studies and design documentation.
+
+**Power Up Electrical Solutions** · Cadet Electrical Engineer<br>
+Electrical design and documentation for building services projects, working alongside
+clients, builders and contractors from quoting through to delivery.
+
+**University**<br>
+A wide range of electrical and software coursework and projects, from power and embedded
+systems through to hardware design and team-based software development.
 
 ### Languages
 
